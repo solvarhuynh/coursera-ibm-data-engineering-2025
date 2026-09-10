@@ -1,0 +1,10 @@
+2026-Apr-16-17-33-05, Initiating ETL process.
+2026-Apr-16-17-33-05, Initiating Extraction process.
+2026-Apr-16-17-33-08, Data extraction complete.
+2026-Apr-16-17-33-08, Initiating Transformation process
+2026-Apr-16-17-33-08, Data transformation complete
+2026-Apr-16-17-33-08, Data saved to CSV file.
+2026-Apr-16-17-33-08, SQL Connection initiated.
+2026-Apr-16-17-33-08, Data loaded to Database as table.
+2026-Apr-16-17-33-08, Running the query.
+2026-Apr-16-17-33-08, Process Complete.

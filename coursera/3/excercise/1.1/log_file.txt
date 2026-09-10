@@ -1,0 +1,28 @@
+2026-Apr-14-14:16:20, ETL Job Started
+
+2026-Apr-14-14:16:20, Extract phase Started
+2026-Apr-14-14:16:20, Extract phase Ended
+2026-Apr-14-14:16:20, Transform phase Started
+2026-Apr-14-14:16:20, Transform phase Ended
+2026-Apr-14-14:16:20, Load phase Started
+2026-Apr-14-14:16:20, Load phase Ended
+2026-Apr-14-14:16:20, ETL Job End
+
+2026-Apr-14-14:17:35, ETL Job Started
+2026-Apr-14-14:17:35, Extract phase Started
+2026-Apr-14-14:17:35, Extract phase Ended
+2026-Apr-14-14:17:35, Transform phase Started
+2026-Apr-14-14:17:35, Transform phase Ended
+2026-Apr-14-14:17:35, Load phase Started
+2026-Apr-14-14:17:35, Load phase Ended
+2026-Apr-14-14:17:35, ETL Job End
+
+2026-Apr-15-01:34:47, ETL Job Started
+2026-Apr-15-01:34:47, Extract phase Started
+2026-Apr-15-01:34:47, Extract phase Ended
+2026-Apr-15-01:34:47, Transform phase Started
+2026-Apr-15-01:34:47, Transform phase Ended
+2026-Apr-15-01:34:47, Load phase Started
+2026-Apr-15-01:34:47, Load phase Ended
+2026-Apr-15-01:34:47, ETL Job End
+
