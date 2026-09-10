@@ -41,4 +41,3 @@ Các chứng chỉ thành phần của chương trình đã hoàn thành:
 - Ngôn ngữ: Python, SQL
 - Thư viện và công cụ: Pandas, NumPy, BeautifulSoup4, Requests, Selenium, SQLite3, ipython-sql
 - Cơ sở dữ liệu: SQLite
-# coursera-ibm-data-engineering-2025
